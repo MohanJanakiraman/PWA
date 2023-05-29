@@ -1,0 +1,16 @@
+ body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+.bottom_footer {
+  display: flex;
+}
+.bottom_footer i{
+    color: white;
+    font-size: 24px;
+}
